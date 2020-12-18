@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Official CloudROM v2.0 for Redmi Note 8/8T"
+title: "Official CloudROM v2.1 for Redmi Note 8/8T"
 comments: false
-description: "Official CloudROM v2.0 for Redmi Note 8/8T"
+description: "Official CloudROM v2.1 for Redmi Note 8/8T"
 keywords: "official cloudrom redmi note 8 8t ginkgo"
 ---
 
