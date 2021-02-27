@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Miui Android 11 Port for Redmi Note 8T (willow) - xiaomi.eu weekly"
+title: "Miui Android 11 Port for Redmi Note 8T (willow)"
 comments: false
-description: "Miui Android 11 Port for Redmi Note 8T (willow) - xiaomi.eu weekly"
+description: "Miui Android 11 Port for Redmi Note 8T (willow)"
 keywords: "Miui R willow"
 ---
 
-This is an unofficial port or xiaomi.eu beta from Redmi Note 8 based on Miui 12.x Android 11.
+
+Those are unofficial ports from Redmi Note 8 based on Miui 12.x Android 11.
 Everything is working fine except nfc, which I didn't look at how can it be added.
 My builds don't have firmware, so you can't brick your phone, also they are tested before relase.
 
@@ -35,7 +36,9 @@ My builds don't have firmware, so you can't brick your phone, also they are test
 
 **Downloads :**
 
- * [Builds](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Miui-Ports-8T/xiaomi.eu-beta/)
+ * [Xiaomi.eu betas](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Miui-Ports-8T/xiaomi.eu-beta/)
+
+ * [China Stable](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Miui-Ports-8T/china-rom/stable/)
 
  * [Firmware](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/willow-firmware/A10/)
 
