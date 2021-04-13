@@ -30,8 +30,6 @@ My builds don't have firmware, so you can't brick your phone, also they are test
 
  * Reboot to recovery
  
- * Flash willow-firmware
-
  * Reboot
 
 **Downloads :**
@@ -40,7 +38,6 @@ My builds don't have firmware, so you can't brick your phone, also they are test
 
  * [China Stable](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Miui-Ports-8T/china-rom/stable/)
 
- * [Firmware](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/willow-firmware/A10/)
-
 **Notes :**
-* Firmwares provided are from willow EEA.
+* Firmware is now built-ing, DO NOT FLASH ON GINKGO (REDMI NOTE 8)
+* Firmware provided is from willow Global.
