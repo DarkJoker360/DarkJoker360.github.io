@@ -31,6 +31,8 @@ All the source code for LineageOS is available in the LineageOS Github repo. And
 
  * [Builds](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-11/LineageOS-18.1/)
 
+ * [Recovery](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-11/LineageOS-18.1/recovery)
+
  * [Google Apps](https://wiki.lineageos.org/gapps.html)
 
 **Notes :**
