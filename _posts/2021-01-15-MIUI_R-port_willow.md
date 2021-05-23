@@ -38,6 +38,8 @@ My builds don't have firmware, so you can't brick your phone, also they are test
 
  * [China Stable](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Miui-Ports-8T/china-rom/stable/)
 
+ * [China Beta](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Miui-Ports-8T/china-rom/beta/)
+
 **Notes :**
 * Firmware is now built-ing, DO NOT FLASH ON GINKGO (REDMI NOTE 8)
 * Firmware provided is from willow Global.
