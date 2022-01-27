@@ -43,6 +43,6 @@ NOTE: If all the flashing process succeeds the terminal output will stop at 47% 
 
 **Downloads :**
 
- * [crDroid](https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/ROM/crDroid-v8.x/)
+ * [crDroid](https://crdroid.net/hotdogg)
 
  * [NikGapps](https://nikgapps.com/downloads)
