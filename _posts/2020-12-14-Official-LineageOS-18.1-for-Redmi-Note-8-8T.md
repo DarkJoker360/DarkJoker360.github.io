@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "LineageOS 18.1 for Redmi Note 8/8T (ginkgo)"
+title: "Official LineageOS 18.1 for Redmi Note 8/8T (ginkgo)"
 comments: false
-description: "Unofficial LineageOS 18.1 for Redmi Note 8/8T (ginkgo)"
-keywords: "Unofficial lineage ginkgo"
+description: "Official LineageOS 18.1 for Redmi Note 8/8T (ginkgo)"
+keywords: "official lineage ginkgo"
 ---
 
 LineageOS is a free, community built, aftermarket firmware distribution of Android 11, which is designed to increase performance and reliability over stock Android for your device.
@@ -23,18 +23,13 @@ All the source code for LineageOS is available in the LineageOS Github repo. And
 
  * Reboot to recovery
 
- * Flash the latest build and gapps
+ * Flash the latest build and gapps (optional)
 
  * Reboot
 
 **Downloads :**
 
- * [Builds](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-11/LineageOS-18.1/)
-
- * [Recovery](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-11/LineageOS-18.1/recovery)
+ * [Builds](https://download.lineageos.org/ginkgo)
 
  * [Google Apps](https://wiki.lineageos.org/gapps.html)
 
-**Notes :**
-* CTS is passing by default
-* I have no intention to apply for official, however I included ota updates to provide the same experience of 17.1, hope you can understand.
