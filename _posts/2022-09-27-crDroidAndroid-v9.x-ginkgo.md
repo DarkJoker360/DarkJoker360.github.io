@@ -31,6 +31,6 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 **Downloads :**
 
- * [crDroid](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-13.x/crDroid/)
+ * [crDroid](https://crdroid.net/ginkgo/9)
 
  * [NikGapps](https://nikgapps.com/downloads)
