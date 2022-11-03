@@ -10,7 +10,7 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 **First time installation:**
 
-* You must have [this recovery](https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/Recovery/crDroid-13.0-recovery.img/download) installed in both slots
+* You must have [this recovery](https://sourceforge.net/projects/crdroid/files/hotdogg/9.x/recovery/) installed in both slots
 * Boot crDroid recovery
 * Format Data
 * Plug your phone to pc and Apply update via ADB
@@ -23,7 +23,7 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 **Update installation:**
 
-* You must have [this recovery](https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/Recovery/crDroid-13.0-recovery.img/download) installed in both slots
+* You must have [this recovery](https://sourceforge.net/projects/crdroid/files/hotdogg/9.x/recovery/) installed in both slots
 * Boot crDroid recovery
 * Plug your phone to pc and Apply update via ADB
 * Run adb sideload <drag_crdroid_zip_here>
@@ -43,4 +43,4 @@ NOTE: If all the flashing process succeeds the terminal output will stop at 47% 
 
 **Downloads :**
 
- * [crDroid](https://sourceforge.net/projects/darkjoker360-developements/files/Oneplus/7T%20Pro%205G%20McLaren/ROM/crDroid-v9.x/)
+ * [crDroid](https://sourceforge.net/projects/crdroid/files/hotdogg/9.x/)
