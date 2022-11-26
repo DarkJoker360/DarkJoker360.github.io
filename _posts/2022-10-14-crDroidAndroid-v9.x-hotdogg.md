@@ -43,4 +43,6 @@ NOTE: If all the flashing process succeeds the terminal output will stop at 47% 
 
 **Downloads :**
 
- * [crDroid](https://sourceforge.net/projects/crdroid/files/hotdogg/9.x/)
+ * [crDroid](https://crdroid.net/hotdogg)
+
+ * [NikGapps](https://nikgapps.com/downloads)

@@ -34,4 +34,7 @@ WARNING: It is highly recommended to come from global miui 12.5 and to follow st
 
 **Downloads :**
 
- * [crDroid](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208%20Pro/ROM/v9.x/)
+ * [crDroid](https://crdroid.net/begonia)
+
+ * [NikGapps](https://nikgapps.com/downloads)
+
