@@ -30,15 +30,15 @@ RAM: 4GB
 
 OS: iOS
 
-## OnePlus 7T Pro 5G McLaren
+## Pixel 7
 
-CPU: Qualcomm Snapdragon 855+
+CPU: Google Tensor G2
 
-Storage: 256GB
+Storage: 128GB
 
-RAM: 12GB
+RAM: 8GB
 
-OS: crDroidAndroid, based on Android 13
+OS: Android
 
 ### Others
-OnePlus 7Pro, OnePlus 6T, Redmi Note 8 Pro, Redmi Note 8T, Redmi Note 8
+OnePlus 7T Pro 5G McLaren, OnePlus 7Pro, OnePlus 6T, Redmi Note 8 Pro, Redmi Note 8T, Redmi Note 8
