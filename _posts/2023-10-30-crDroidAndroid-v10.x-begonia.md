@@ -12,7 +12,7 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 WARNING: It is highly recommended to come from global miui 12.5 and to follow steps properly, expecially by using recommended recoveries to avoid bricks or any kind of errors !
 
-* Use [this recovery](https://drive.google.com/file/d/1i491MVtCRM1lKFrJKLR7gr4uba67lIHk/view?pli=1)
+* Use [this recovery](https://devuploads.com/7d97o9v8e75n)
 * Format Data
 * Wipe system, dalvik, cache, vendor
 * Install Rom
@@ -34,4 +34,4 @@ WARNING: It is highly recommended to come from global miui 12.5 and to follow st
 
 **Downloads :**
 
- * [crDroid](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208%20Pro/ROM/10.x/)
+ * [crDroid](https://crdroid.net/begonia/10)
